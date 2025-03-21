@@ -3,25 +3,25 @@ Proyek ini bertujuan untuk mengukur intensitas cahaya menggunakan sensor LDR yan
 
 Pada praktikum ini, kami mengetes perubahan output sensor LDR dengan mencoba mengarahkan sensor ke area terang dan gelap. Selain itu, kami juga mengamati perubahan nyala lampu DO-LED pada sensor saat diarahkan ke area gelap karena menggunakan pin DO (Digital Output).
 
-🔧 Hardware yang Digunakan
+🔧 **Hardware yang Digunakan**
 - ESP32
 - Sensor LDR
 - Jumper Wires (Female)
 - Power Supply (USB ke ESP32)
 
-📡 *Diagram Rangkaian*
+📡 **Diagram Rangkaian**
 | ⚡ ESP32 Pin | 🔗 LDR Pin |
 |-----------|-----------|
 | VCC (3.3V) | VCC |
 | GND | GND |
 | GPIO 2 | AO |
 
-📥 Instalasi Library
+📥 **Instalasi Library**
 Pastikan Anda telah menginstal library berikut di Arduino IDE:
 1. 📂 ESP32 dev module
 
-🚀 Hasil:
-- image alat iot
+🚀 **Hasil:**
+- Image Alat IoT
 <img src = "image.png">
-- image hasil di arduino
+- Image hasil di Arduino
 <img src = "image2.jpg">
