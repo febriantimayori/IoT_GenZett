@@ -21,5 +21,5 @@ Pada praktikum ini, kami mengetes perubahan output sensor ultrasonik dengan meng
 🚀 **Hasil:**
 - Image Alat IoT
 <img src = "image2.jpg">
-- image hasil di Arduino
+- Image hasil di Arduino
 <img src = "image.png">
