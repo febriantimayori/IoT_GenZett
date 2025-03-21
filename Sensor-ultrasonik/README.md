@@ -8,8 +8,6 @@ Pada praktikum ini, kami mengetes perubahan output sensor ultrasonik dengan meng
 - Sensor Ultrasonik HC-SR04
 - Jumper Wires (Female)
 - Power Supply (USB ke ESP32)
-  
-alat: ESP32, Sensor Ultrasonik HC-SR04, Jumper Wires, Power Supply (USB ke ESP32)
 
 📡 *Diagram Rangkaian*
 | ⚡ ESP32 Pin | 🔗 HC-SR04 Pin |
