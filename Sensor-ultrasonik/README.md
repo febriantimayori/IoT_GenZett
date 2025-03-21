@@ -3,13 +3,13 @@ Proyek ini bertujuan untuk mengukur jarak menggunakan sensor ultrasonik HC-SR04 
 
 Pada praktikum ini, kami mengetes perubahan output sensor ultrasonik dengan mengukur jarak terhadap berbagai objek dan mengamati hasil yang ditampilkan di Serial Monitor.
 
-🔧 **Hardware yang Digunakan**
+## 🔧 **Hardware yang Digunakan**
 - ESP32
 - Sensor Ultrasonik HC-SR04
 - Jumper Wires (Female)
 - Power Supply (USB ke ESP32)
 
-📡 **Diagram Rangkaian**
+## 📡 **Diagram Rangkaian**
 | ⚡ ESP32 Pin | 🔗 HC-SR04 Pin |
 |------------|--------------|
 | VCC (3V3)  | VCC |
@@ -18,8 +18,8 @@ Pada praktikum ini, kami mengetes perubahan output sensor ultrasonik dengan meng
 | GPIO 2 | Echo |
 
 
-🚀 **Hasil:**
-- Image Alat IoT
+## 🚀 **Hasil:**
+- Hasil Alat IoT:
 <img src = "image2.jpg">
-- Image hasil di Arduino
+- Hasil di Arduino:
 <img src = "image.png">
