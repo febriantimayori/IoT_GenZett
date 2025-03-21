@@ -3,7 +3,11 @@ Proyek ini bertujuan untuk mengukur intensitas cahaya menggunakan sensor LDR yan
 
 Pada praktikum ini, kami mengetes perubahan output sensor LDR dengan mencoba mengarahkan sensor ke area terang dan gelap. Selain itu, kami juga mengamati perubahan nyala lampu DO-LED pada sensor saat diarahkan ke area gelap karena menggunakan pin DO (Digital Output).
 
-alat: ESP32, Sensor LDR, Power Supply (USB ke ESP32)
+🔧 Hardware yang Digunakan
+- ESP32
+- Sensor LDR
+- Jumper Wires (Female)
+- Power Supply (USB ke ESP32)
 
 📡 *Diagram Rangkaian*
 | ⚡ ESP32 Pin | 🔗 LDR Pin |

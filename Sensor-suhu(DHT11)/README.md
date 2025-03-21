@@ -6,7 +6,7 @@ Pada praktikum ini, kami mengetes perubahan nilai suhu dan kelembaban dari senso
 🔧 Hardware yang Digunakan
 - ESP32
 - Sensor DHT11
-- Jumper Wires
+- Jumper Wires (Female)
 - Power Supply (USB ke ESP32)
 
 📡 Diagram Rangkaian
